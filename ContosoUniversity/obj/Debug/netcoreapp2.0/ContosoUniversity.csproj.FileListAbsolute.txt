@@ -9,3 +9,14 @@ C:\Training\dotnetcore\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2
 C:\Training\dotnetcore\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
 C:\Training\dotnetcore\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
 C:\Training\dotnetcore\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
+E:\GithubRepos\dotnetcore\aspnetcore2contoso\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+E:\GithubRepos\dotnetcore\aspnetcore2contoso\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+E:\GithubRepos\dotnetcore\aspnetcore2contoso\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+E:\GithubRepos\dotnetcore\aspnetcore2contoso\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+E:\GithubRepos\dotnetcore\aspnetcore2contoso\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+E:\GithubRepos\dotnetcore\aspnetcore2contoso\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csprojResolveAssemblyReference.cache
+E:\GithubRepos\dotnetcore\aspnetcore2contoso\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+E:\GithubRepos\dotnetcore\aspnetcore2contoso\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+E:\GithubRepos\dotnetcore\aspnetcore2contoso\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+E:\GithubRepos\dotnetcore\aspnetcore2contoso\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+E:\GithubRepos\dotnetcore\aspnetcore2contoso\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
